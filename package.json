@@ -2,7 +2,7 @@
   "name": "tp-poc-reat-pwa",
   "version": "0.1.0",
   "private": true,
-  "homepage": "/tp-poc-react-pwa",
+  "homepage": "http://samuellorde2.github.io/tp-poc-react-pwa",
   "dependencies": {
     "@material-ui/core": "^4.9.9",
     "@material-ui/icons": "^4.9.1",
